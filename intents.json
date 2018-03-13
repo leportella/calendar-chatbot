@@ -1,0 +1,11 @@
+{"classes": [
+        {"intent": "greeting",
+         "patterns": ["Oi", "Olá, tudo bem?", "Como você está?", "Olá", "Bom dia"]
+        },
+        {"intent": "define",
+         "patterns": ["Quero agendar um compromisso", "Marque uma reunião", "Marque um evento"]
+        }
+        {"intent": "data",
+         "patterns": ["Amanhã", "Quarta-feira", "Sexta-feira", "Depois de amanhã", "Domingo que vem"]
+        }
+}
